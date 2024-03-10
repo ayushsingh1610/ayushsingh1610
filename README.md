@@ -13,7 +13,7 @@ I'm currently learning Java and Python.
 
 
 ## 🛠 Skills
-C, Java, Python.
+C, Java, Python,SQL.
 
 
 ## Streaks
