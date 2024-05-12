@@ -19,3 +19,12 @@ C, Java, Python,SQL.
 ## Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayushsingh1610&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## Top Languages 
+
+![ayushsingh1610's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh1610&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+## Github Stats
+
+![ayushsingh1610's Stats](https://github-readme-stats.vercel.app/api?username=ayushsingh1610&theme=vision-friendly-dark&show_icons=&hide_border=true&count_private=true)
