@@ -27,7 +27,7 @@ C, Java, Python,SQL.
 
 ![ayushsingh1610's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh1610&theme=vision-friendly-dark&hide_border=true)
 
-## Top Languages 
+## Used Languages 
 
 ![ayushsingh1610's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh1610&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
