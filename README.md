@@ -16,7 +16,7 @@
 
 
 ## 🚀 About Me
-I'm currently learning Java and Python.
+I'm currently learning Javascript ☘.
 
 
 ## 🛠 Skills
